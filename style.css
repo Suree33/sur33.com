@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap);
+
+* {
+    font-family: 'Open Sans', sans-serif
+}
+
+body {
+    position: relative;
+    margin: 0;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    position: absolute;
+
+    color: #fc7753;
+    font-style: italic;
+    font-size: max(4vw, 4vh);
+    line-height: .7;
+    margin: 0
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+        background-color: #212121;
+    }
+
+    h1 {
+        color: #FC6136;
+    }
+}
