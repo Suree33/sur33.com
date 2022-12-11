@@ -23,7 +23,9 @@ h1 {
     font-style: italic;
     font-size: max(4vw, 4vh);
     line-height: .7;
-    margin: 0
+    margin: 0;
+
+    user-select: none;
 }
 
 @media (prefers-color-scheme: dark) {
