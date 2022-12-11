@@ -4,6 +4,10 @@
     font-family: 'Open Sans', sans-serif
 }
 
+html {
+    background-color: #fafafa;
+}
+
 body {
     position: relative;
     margin: 0;
