@@ -1,0 +1,6 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --font-color: #f5f5f5;
+    --bg-color: #121212;
+  }
+}
