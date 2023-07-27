@@ -1,7 +1,7 @@
 const path = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
-const OUTPUT_DIR = 'dist';
+const OUTPUT_DIR = 'public';
 
 module.exports = {
   entry: './src/index.ts',
