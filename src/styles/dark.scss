@@ -4,16 +4,4 @@
         --font-color: #f5f5f5;
         --bg-color: #121212;
     }
-
-    .links {
-        &__item {
-            &__logo {
-                &__svg {
-                    > svg {
-                        fill: var(--font-color);
-                    }
-                }
-            }
-        }
-    }
 }

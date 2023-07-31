@@ -2,8 +2,9 @@
     &__item {
         &__logo {
             &__threads {
-                display: flex;
                 width: 2rem;
+                height: 2rem;
+                -webkit-mask-image: url(../../public/images/logos/threads.svg);
             }
         }
     }
