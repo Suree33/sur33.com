@@ -80,7 +80,9 @@ h1 {
             text-align: center;
             &__svg {
                 background-color: var(--font-color);
+                mask-repeat: no-repeat;
                 -webkit-mask-repeat: no-repeat;
+                mask-position: center;
                 -webkit-mask-position: center;
             }
         }
