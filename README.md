@@ -1,1 +1,3 @@
-# [sur33.com](https://sur33.com/)
+# My (old) social profile
+
+New → [https://github.com/Suree33/blog](https://github.com/Suree33/blog)
